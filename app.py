@@ -56,4 +56,5 @@ Davia(
         {"name": "📌 Data Profile", "type": "markdown"}
     ],
     flow=insightgem
+    port=port
 )
