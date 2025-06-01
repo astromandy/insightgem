@@ -1,0 +1,4 @@
+davia
+pandas
+python-dotenv
+google-generativeai
